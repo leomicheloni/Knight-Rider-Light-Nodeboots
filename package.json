@@ -1,0 +1,28 @@
+{
+  "name": "KnightRiderLight",
+  "version": "1.0.0",
+  "description": "Knight-Rider-Light-Nodeboots\r ============================",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leomicheloni/Knight-Rider-Light-Nodeboots.git"
+  },
+  "keywords": [
+    "nodebots",
+    "javascript",
+    "led",
+    "arduino"
+  ],
+  "author": "Leonardo Micheloni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leomicheloni/Knight-Rider-Light-Nodeboots/issues"
+  },
+  "homepage": "https://github.com/leomicheloni/Knight-Rider-Light-Nodeboots",
+  "devDependencies": {
+    "johnny-five": "^0.8.37"
+  }
+}
